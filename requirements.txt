@@ -1,0 +1,9 @@
+# To install all dependencies, run:
+# pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+jsonlib
